@@ -1,6 +1,8 @@
 # MeanScore
 Fit a geeglm model using MeanScore (MIIPW) With (In) R Software
 
+https://www.youtube.com/watch?v=fQhohmquwL4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
